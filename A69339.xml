@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene, a proclamation commanding all persons vpon the borders of England, to keepe peace towards Scotland, vpon the like proclamation by the King of Scots towards England</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1596</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69339</idno>
+            <idno type="STC">STC 8253.3</idno>
+            <idno type="STC">ESTC S115522</idno>
+            <idno type="EEBO-CITATION">23956378</idno>
+            <idno type="OCLC">ocm 23956378</idno>
+            <idno type="VID">15967</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15967)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:103 or 1813:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene, a proclamation commanding all persons vpon the borders of England, to keepe peace towards Scotland, vpon the like proclamation by the King of Scots towards England</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1596 [i.e. ca. 1618]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: item at reel 1813:32 cropped at bottom with loss of imprint date; date of imprint and corrected date of imprint suggested by STC (2nd ed.) and NUC pre-1956 imprints.</note>
+                  <note>"Giuen vnder our signet at our mannor of Greenewich, the xx. day of August in the xxxviii. yeere of our reigne."</note>
+                  <note>Formerly STC 8252. Cf. STC (2nd ed.).</note>
+                  <note>Item at reel 565:103 identified as STC 8252.</note>
+                  <note>Reproductions of originals in the Bodleian Library and Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Proclamations --  Great Britain.</term>
+               <term>England --  Foreign relations --  Scotland.</term>
+               <term>Scotland --  Foreign relations --  England.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Great Britain --  Politics and government --  1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15967:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">A Proclamation commanding all perſons vpon the Borders of England, to keepe peace towards Scotland, vpon the like Proclamation by the King of Scots towards England.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas of late time there hath beene great diſorders by Incurſions into our Realme of multitude of Scottiſhmen dwelling vpon the Borders of our Realme towards Scotland, committing both murthers, taking of pri<g ref="char:EOLhyphen"/>ſoners, burning of houſes, and taking of goodes and cattell, whereof our Wardens haue made complaints to the oppoſite Wardens and Officers, and thereof the King of Scots, our good brother hath beene aduertiſed, and hath anſwered, that he very willingly would giue order for redreſſe thereof, And to that purpoſe hath by his Proclamation charged all his Wardens and Officers upon the Borders, and other his Subiects whawtſoeuer, to obſerue and keepe the peace, and in no wiſe to inuade, moleſt, or doe any iniury to any of our ſubjects, adding thereto very honorable directions for obſeruing thereof vpon great paines, as by the ſaide Proclamation fur<g ref="char:EOLhyphen"/>ther hath appeared vnto vs: He for our part being of the ſame good mind for maintenance of common peace, doe ſtraightly charge and commaund all our Wardens of the three Marches, and all other our Officers and doe ſtraightly charge and commaund all our Wardens of the three Marches, and all other our Officers and ſubiects within the ſaid Marches, to liue in peace and quietneſſe, and in no wiſe to make any incurſion into Scotland priuately or publikely: But if any offence ſhall be done vnto them it their bodies, lands, or goods by any Scottiſh man, that then they forbeare to reuenge the ſame by any open hoſtilitie, but make their com<g ref="char:EOLhyphen"/>plaints and purſutes to the oppoſite Wardens, according to the lawes of the Frontiers: And if redreſſe ſhall not be made vnto them, then wee will that our Warden, where the offence ſhall be committed, ſhall giue knowledge thereof to the King our good brother by our Ambaſſadour there reſident, hoping thereby both that our Subiectes damnified ſhall be relieued, and the Kings Officers refuſing to giue Iuſtice, ſhall be chaſtiſed and corrected, the like whereof vpon complaint of any Scottiſh men againſt our Subiects or our Wardens, we minde to ſee ſeuerely redreſſed.</p>
+            <p>And though this preſent order now giuen by theſe our mutuall Proclamations, may by good likelihood ſtay any further diſorders from this time forward, yet conſidering the multitude of offences, that haue beene committed by the Scots, againſt our Subiects, is ſo great and lamentable for our Subiects to ſuffer, either vnredreſſed (as farre foorth as the ſame may be) or vnreuenged, as might haue beene, if our ſubiectes had not beene prohibited to ſeeke the ſame by force: Yet we would haue our ſubiects that haue beene ſo iniured with<g ref="char:EOLhyphen"/>out redreſſe, to vnderſtand, that as the king of Scots offereth to haue Commiſſioners authorized for his part to repaire to the Borders, to meete with ſome to be appointed by vs, amicably and peaceably to heare the complaints both of ours and his ſubiects, and to giue ſpeedy redreſſe and ſatiſfaction, according to the lawes and cuſtomes of the Borders, and agreeable with the treaties of amitie betwixt vs &amp; the ſaid King, for mutu<g ref="char:EOLhyphen"/>all iuſtice and continuance of peace: ſo alſo we meane therein to doe the like, &amp; to make choiſe of ſome ſpeciall men of knowledge &amp; good diſpoſition to peace, to repaire to the Frontiers, and there to ioyne with such as the Ring of Scots ſhall appoint for his part: Willing and commaunding our Wardens and other our Officers in the meane time, to cauſe all perſons ſubiects, hauing iuſt cauſe of complaint, and that haue had no re<g ref="char:EOLhyphen"/>dreſſe, to make ready their complaints in writing, with the due proofes thereof, to be deliuered to our ſeuerall Wardens, whereby the ſame may be in more readineſſe, to be heard and ordered mutually by our ſaid Com<g ref="char:EOLhyphen"/>miſſioners. And this our commandement and determination wee will and command our Wardens to cauſe to be publiſhed in all places publike within their Offices, and like wiſe to giue knowledge thereof to the War<g ref="char:EOLhyphen"/>dens oppoſite of Scotland, and other publike Officers vpon the Scottiſh Frontiers, thereby to moue them to be correſpondent in their actions, agreeable to this common determination of vs and the King our good brother.</p>
+            <closer>
+               <dateline>Giuen vnder our Signet at our Mannor of Greenewich, <date>the xx, day of Auguſt in the xxxviii. yeere of our Reigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of Chriſtopher Barker, Printer to the Queenes moſt</p>
+         </div>
+      </back>
+   </text>
+</TEI>
